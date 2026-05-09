@@ -13,7 +13,7 @@
  <h1>WHOOPS!</h1>
  <div class="tape"></div>
  <p>The website you tried to visit is <a href="https://www.tomkstuff.fyi">tomkstuff.fyi</a> but sadly tomkstuff's own webserver is</p>
- <p style="font-size: 120px; font-weight: 1000; margin-top: -15px;">DOWN.</p>
+ <p style="font-size: 120px; font-weight: 1000; margin-top: -2px;">DOWN.</p>
  <p style="margin-top: -40px;">You're been redirected to <a href="https://www.johnhadless1.github.io">https://www.johnhadless1.github.io</a>.</p>
  <p>Dont worry, this site/webserver wasn't been hacked, johnhadless1 is my github account.</p>
  <p>There is around 3-5% chance that Samsung Galaxy S4 phone the webserver god is dead. <br> if not, then webmaster is doing something with this little thing or webserver is rebooting itself. Be patient.</p>
