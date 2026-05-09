@@ -20,6 +20,7 @@
  <p>There is around 3-5% chance that Samsung Galaxy S4 phone the webserver god is dead. <br> if not, then webmaster is doing something with this little thing or webserver is rebooting itself. Be patient.</p>
  <p>I would be pretty surprised if you got to this website while webserver is rebooting. It could reboot really quick.. (lie) <br> Lucky on you.</p>
  <p>I dont know how to display status of my webserver, nor code it all myself. Oops, nope.. Im really stupid for this one.</p>
+ <p>Now.. since we are here right now.. What we gonna do? <br> <i>Hmmm...</i> I dont know yet. no recommendations today sorry.</p>
 
 </body>
 </html>
