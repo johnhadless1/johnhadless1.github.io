@@ -1,6 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="color-scheme" content="dark">
 </head>
 <body>
 
