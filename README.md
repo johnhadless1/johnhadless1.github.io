@@ -28,5 +28,19 @@
      <p>"Customizing" Cloudflare's error pages does exist, but that needs a <i>paid plan</i>. Im not paying that one.</p>
  </details>
  <p style="margin-top:50px;">There is a link just in case if you believe that my S4 is now up after waiting for ages. <br> <a href="https://www.tomkstuff.fyi">tomkstuff website</a></p>
+ <br>
+ <br>
+ <details><summary>CLICK FOR SAD UPDATE</summary>
+ <p>Really really sad news happened to my webserver, Samsung Galaxy S4 phone.</p>
+ <p><b>It wouldn't boot.</b> And I may or may not <b><i>killed it.</i></b> It is my fault.</p>
+ <p>The reason youre here is my murder attempt towards my S4 phone.</p>
+ <p>Alright, youre obviously curiously on what happened on my end. <br>Actually, I tried to make it <i>battery-less</i>, only get power from <b>wall power.</b></p>
+ <p>So this way I wouldnt be stressed about the battery getting more and more bloated as time passes away. <br>I would like it to be 24/7, <i>this is why.</i></p>
+ <p>In result, I tried to break down the S4's original battery to have PCB board that talks between battery and phone. <b>This is biggest mistake of my life ever.</b><br>Meaning that I wouldnt use it again if trying to get it power from wall power.</p>
+ <p>I got it to power up, but it would boot loop, like always, it wouldnt boot into <i>Android.</i></p>
+ <p>Hearing or looking at the reality result, made me infinitely exhausted, depressed and more...</p>
+ <p>I wouldnt have my website for much long time, when I always want it to host alreaaaady..... <i>Come on....</i></p>
+ <p>My replacement parts/items are already coming for so long time, I wouldnt wait much longer. This is breaking my patience....</p>
+ </details>
 </body>
 </html>
